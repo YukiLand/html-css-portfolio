@@ -2,3 +2,104 @@ html, body {
     margin: 0;
     padding: 0;
 }
+#Logo{
+	margin: 50px auto;
+	width: 502px;
+	height: 135px;
+	display: block;
+}
+#Hero{
+	
+	background-image: url("images/Hero.png");
+	height: 400px;
+	
+}
+#Hero p{
+	color: white;
+	text-align: center;
+	font-size: 60px;
+	line-height: 400px;
+	font-family: Playfair Display, serif;
+	display: block;
+}
+#Lorem{
+	font-family: Playfair Display, serif;	
+	font-size: 30px;
+	margin-top: 50px;
+	margin-bottom: 30px;
+	text-align: center;
+	display: inline-block;
+	text-align: left;
+}
+strong{
+	font-weight: normal;
+}
+.container{
+	width: 990px;
+	margin:auto;
+}
+.column{
+	float: left;
+	text-align: left;
+	width: 480px;
+	margin-right: 30px;
+}
+.column-right{
+	float: right;
+	font-family: Playfair Display, serif;
+	font-size: 18px;
+	width: 480px;
+	text-align: right;
+	margin-top: 50px;
+}
+#Intro{
+	font-family: Playfair Display, serif;
+	font-size: 30px;
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+.Texte{
+	font-family: Open sans, sans-serif;
+	font-size: 16px;
+	text-align: justify;
+	width: 480px;
+}
+
+#pictures{
+			margin-left: -30px;
+		}
+
+#pictures img {
+			display: block;
+			width: 225;
+			height: 149px;
+			float:left;
+			margin-left: 30px;
+			margin-bottom: 30px;
+		}	
+
+
+
+#Contact{
+	float:right;
+	color:white;
+	text-align: center;
+	height: 60px;
+	width: 160px;
+	font-family: Playfair Display, serif;
+	font-size: 24px;
+	background-color: black;
+	line-height: 2em;
+	margin-top: 50px;
+	margin-bottom: 80px;
+	display: block;
+
+}
+div#Footer{
+			background-color: grey;
+			text-align: center;
+			
+			height: 167px;
+			float: right;
+			margin: 15px;
+}
